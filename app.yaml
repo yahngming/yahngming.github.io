@@ -1,0 +1,22 @@
+application: xn--2hvy3a
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  static_files: index.html
+  upload: index.html
+
+- url: /favicon.png
+  static_files: favicon.png
+  upload: favicon.png
+
+- url: /index.txt
+  static_files: index.txt
+  upload: index.txt
+
+- url: /jquery.min.js
+  static_files: jquery.min.js
+  upload: jquery.min.js

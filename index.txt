@@ -1,0 +1,18 @@
+<span id="a">root@localhost</span>:<span id="b">~</span><span id="c">$</span> whois
+<!-- laglaglaglaglaglaglaglaglag -->
+Name: YANG MING
+Creation Date: 1982-01-24
+Registrar: PRC
+Status: itsComplicated
+Registrant Organization: <a href="http://www.airen.us/">AIREN</a>
+Registrant Phone: <a href="tel:+1.6506464964">+1.6506464964</a>
+Registrant Email: <a href="mailto:yahngming@gmail.com">yahngming@gmail.com</a>
+Registrant GitHub: <a href="https://github.com/yahngming">@yahngming</a>
+Registrant Twitter: <a href="https://twitter.com/myang">@myang</a>
+Registrant Instagram: <a href="https://www.instagram.com/yahngming">@yahngming</a>
+Registrant Youtube: <a href="https://www.youtube.com/user/yahngming">@yahngming</a>
+<!-- laglaglaglaglaglag -->
+TERMS AND CONDITIONS: Everyone is permitted to copy and distribute
+verbatim or modified copies of this license document, and changing
+it is allowed as long as the name is changed. You just DO WHAT THE
+FUCK YOU WANT TO. 
