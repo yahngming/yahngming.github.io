@@ -4,7 +4,6 @@ Name: YANG MING
 Creation Date: 1982-01-24
 Registrar: PRC
 Status: itsComplicated
-Registrant Organization: <a href="http://www.airen.us/">AIREN</a>
 Registrant Phone: <a href="tel:+1.6506464964">+1.6506464964</a>
 Registrant Email: <a href="mailto:yahngming@gmail.com">yahngming@gmail.com</a>
 Registrant GitHub: <a href="https://github.com/yahngming">@yahngming</a>
