@@ -4,11 +4,10 @@ Name: YANG MING
 Creation Date: 1982-01-24
 Registrar: PRC
 Status: itsComplicated
-Registrant Phone: <a href="tel:+1.6506464964">+1.6506464964</a>
+Registrant Blog: <a href="https://yahngming.blogspot.com">yahngming.blogspot.com</a>
 Registrant Email: <a href="mailto:yahngming@gmail.com">yahngming@gmail.com</a>
 Registrant GitHub: <a href="https://github.com/yahngming">@yahngming</a>
-Registrant Twitter: <a href="https://twitter.com/myang">@myang</a>
-Registrant Instagram: <a href="https://www.instagram.com/yahngming">@yahngming</a>
+Registrant X: <a href="https://x.com/myang">@myang</a>
 Registrant Youtube: <a href="https://www.youtube.com/user/yahngming">@yahngming</a>
 <!-- laglaglaglaglaglag -->
 TERMS AND CONDITIONS: Everyone is permitted to copy and distribute
